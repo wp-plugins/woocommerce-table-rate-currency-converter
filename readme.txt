@@ -3,7 +3,7 @@ Contributors: Gabriel Reguly
 Donate link: http://omniwp.com.br/donate/
 Tags: WooCommerce, Table Rate, Currency Converter
 Requires at least:3.5.1
-Tested up to: 3.5.1
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,7 +20,6 @@ Please notice that WooCommerce, WooCommerce Currency Converter and WooCommerce T
 
 
 == Installation ==
-
 1. Upload plugin files to your plugins folder, or install using WordPress' built-in Add New Plugin installer
 1. Activate the plugin
 1. There will be a new Shipping Method for WooCommerce
